@@ -12,6 +12,7 @@ len 함수 활용한 문자열 가공, if 문 사용해 봄.
 문자열가공법 (join 함수로 특정 문자를 넣어서 문자열 조합하기, (a).replace 활용해 일부 문자열 대체하기, replace없이 대체하는법)
 리스트의 개념[]
 sort, sorted 활용
+append함수 활용
 pop함수 활용
 딕셔너리 개념[:]
 if문
@@ -19,3 +20,5 @@ if문
 변수 복사하는 법 (1. [:], 2. copy함수(from copy import copy, copy(a)))
 
 3일차 배운내용
+in / not in (R 에서 %in%, 
+range함수 (range(2) => 0, 1, 2)
